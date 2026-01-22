@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 This is commit 3
 wrrrgrg
 
+=======
+shuhshshhwuhwuhshhs
+sjnsjnkjnsjnnsjnjsn
+skjskjsbjbskjbskbksb
+>>>>>>> parent of eb7b311 (commit 1)
