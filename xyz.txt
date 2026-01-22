@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 It's master 
+=======
+This it slave
+>>>>>>> slave
